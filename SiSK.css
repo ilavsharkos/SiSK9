@@ -1,0 +1,26 @@
+body{background-color: green;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    color: white;
+text-align: center;}
+.main{text-align: center;
+padding: 4% 20% 6%;}
+.molekula-slika{width: 30%;
+margin: 0 auto 50px;}
+
+h1 {font-weight: 600;
+}
+
+.formaforma{background-color: rgb(255,255,255, .5);
+margin:0 auto 50px;
+padding: 20px;
+border-radius: 2%;}
+@media(max-width:1350px){.molekula-slika{width: 45%;}}
+@media(max-width:1200px){.molekula-slika{width:60%;
+margin: 14% auto;}}
+@media(max-width:800px){.formaforma{width:90%;
+padding: 0;
+margin-bottom: 20px;
+margin-top: 10%;}
+.molekula-slika{width: 80%;}
+.main{padding: 5% 12% 7%;}
+h1{margin:8% auto 4%;}}
