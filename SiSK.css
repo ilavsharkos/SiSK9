@@ -16,11 +16,13 @@ padding: 20px;
 border-radius: 2%;}
 @media(max-width:1350px){.molekula-slika{width: 45%;}}
 @media(max-width:1200px){.molekula-slika{width:60%;
-margin: 14% auto;}}
+margin: 8% auto;}
+.main{margin-top: 0;}
+.molekula-slika{margin-top: 0;}}
 @media(max-width:800px){.formaforma{width:90%;
 padding: 0;
 margin-bottom: 20px;
 margin-top: 10%;}
-.molekula-slika{width: 80%;}
-.main{padding: 5% 12% 7%;}
+.molekula-slika{width: 70%;}
+.main{padding: 10% 12% 7%;}
 h1{margin:8% auto 4%;}}
