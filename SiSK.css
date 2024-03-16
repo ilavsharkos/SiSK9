@@ -43,6 +43,7 @@ h1{margin:8% auto 4%;}}
 @media(max-width:600px){.red-gumbeki{width: 95%;}
 .prosli{padding: 6% 5%;}}
 @media(max-width:460px){.btn-stari-sisk-link{width: fit-content;
-font-size: 8px;}
+font-size: 10px;}
+.col-gumbeki{padding: 0;}
 }
 
