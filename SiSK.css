@@ -7,6 +7,10 @@ padding: 4% 20% 6%;}
 .molekula-slika{width: 30%;
 margin: 0 auto 50px;}
 
+
+.hrv-hrv-link, .en-en-link{color: #0C8A00;}
+
+
 h1 {font-weight: 600;
 }
 
@@ -37,13 +41,15 @@ margin-bottom: 20px;
 margin-top: 10%;}
 .red-gumbeki{width: 80%;}
 .molekula-slika{width: 70%;}
-.main{padding: 10% 6% 7%;}
+.main{padding: 10% 12% 7%;}
 h1{margin:8% auto 4%;}}
 
-@media(max-width:600px){.red-gumbeki{width: 95%;}
-.prosli{padding: 6% 5%;}}
+@media(max-width:600px){.red-gumbeki{width: 100%;}
+.prosli{padding: 6% 3%;}}
+
 @media(max-width:460px){.btn-stari-sisk-link{width: fit-content;
 font-size: 10px;}
 .col-gumbeki{padding: 0;}
 }
+
 
